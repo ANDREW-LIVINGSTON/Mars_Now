@@ -27,7 +27,7 @@
 		
 		<h2 class="text-danger"> Search pictures from the day</h2>
 		<br>
-		<p class="text-danger">* sol date = how many Marian days the rover has been on the planet *</p>
+		<p class="text-danger">* sol date = how many Martian days the rover has been on the planet *</p>
 		<a href="" class="refresh btn btn-danger mt-4 mb-2">Different Date?</a>
 		
 		<div class="search">
